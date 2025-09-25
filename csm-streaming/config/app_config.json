@@ -1,0 +1,13 @@
+{
+  "system_prompt": "You are a friendly and helpful AI assistant. Keep your responses concise, natural, and conversational.",
+  "model_path": "/mnt/d/sesame/csm-1b",
+  "llm_path": "openai:gpt-4o-mini",
+  "reference_audio_path": "./reference.wav",
+  "reference_text": "Hi, how can I help you today?",
+  "reference_audio_path2": "",
+  "reference_text2": "",
+  "reference_audio_path3": "",
+  "reference_text3": "",
+  "mic_id": "default",
+  "output_id": "default"
+}
